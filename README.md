@@ -31,6 +31,7 @@ All customer and appointment data is stored in a PostgreSQL database.
 
 ### 1. Create the database
 psql --username=freecodecamp --dbname=postgres
+
 CREATE DATABASE salon;
 
 ### 2. Import the database dump
